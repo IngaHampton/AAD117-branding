@@ -1,8 +1,8 @@
 # AAD117
 
-[Research](http://ingahampton.github.io/AAD117-1/AAD117-Research.html)
+[Research](http://ingahampton.github.io/AAD117-branding/AAD117-Research.html)
 
-[Markdown Research](https://github.com/IngaHampton/AAD117-1/blob/gh-pages/Uncommon-Knowledge.md)
+[Markdown Research](https://github.com/IngaHampton/AAD117-branding/blob/gh-pages/Uncommon-Knowledge.md)
 
 ## Personal Identity
 
@@ -30,7 +30,7 @@
 
 ### Brand Guidelines
 
-[Brand Guidelines](http://ingahampton.github.io/AAD117-1/corporate-brand-guidlines.html)
+[Brand Guidelines](http://ingahampton.github.io/AAD117-branding/corporate-brand-guidlines.html)
 
 ### Icons
 
