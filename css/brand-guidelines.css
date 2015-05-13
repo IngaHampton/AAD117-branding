@@ -1,0 +1,284 @@
+*
+{
+    padding:0;
+    margin:0;
+    font-size: 100%;
+    line-height: 1em;
+}
+
+body
+{
+background-color: white;
+}
+
+.title
+{
+    position: fixed;
+    width: 100%;
+    z-index: 1px;
+    min-width: 1400px;
+}
+
+.chris
+
+{
+width: 33%;
+position: fixed;
+z-index: 10;
+margin: 10% 0% 0% 60%;
+    min-width: 300px;
+}
+
+.logo
+{
+    width: 50%;
+    z-index: 10px;
+    margin: 20% 0% 0% 25%;
+}
+
+h1
+{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+    z-index: 10px;
+    text-transform: uppercase;
+    margin: 15% 0% 0% 32%;
+    color: #20374E;
+}
+
+h2
+
+{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    z-index: 10px;
+    text-transform: uppercase;
+    margin: 30% 0% 5% 45%;
+    color: #9BA883;
+}
+
+h3
+{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    z-index: 10px;
+    text-transform: uppercase;
+    margin: 5% 20% 1% 20%;
+    color: black;
+    opacity: 0.5;
+}
+
+p
+
+{
+font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 200;
+    font-size: 15px;
+    z-index: 10px;
+    text-transform: uppercase;
+    margin: 0% 20% 0% 20%;
+    color: black;
+    opacity: 0.5;
+    text-align: justify;
+    line-height: 1.5em;
+}
+
+
+
+p.colour-codes1
+
+{
+font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    z-index: 10px;
+    text-transform: uppercase;
+    margin: 0% -4% 0% 10%;
+    color: black;
+    opacity: 0.5;
+    text-align: justify;
+    line-height: 1em;
+    display: inline-block;
+}
+
+p.colour-codes2
+
+{
+font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+    z-index: 10px;
+    text-transform: uppercase;
+    margin: 0% -4% 0% 10%;
+    color: black;
+    opacity: 0.5;
+    text-align: center;
+    line-height: 1em;
+    display: inline-block;
+}
+
+p.colour-codes3
+
+{
+font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+    z-index: 10px;
+    text-transform: uppercase;
+    margin: 0% -4% 0% 13%;
+    color: black;
+    opacity: 0.5;
+    text-align: center;
+    line-height: 1em;
+    display: inline-block;
+}
+
+p.colour-codes4
+
+{
+font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+    z-index: 10px;
+    text-transform: uppercase;
+    margin: 0% -4% 0% 12%;
+    color: black;
+    opacity: 0.5;
+    text-align: center;
+    line-height: 1em;
+    display: inline-block;
+}
+
+p.colour-codes5
+
+{
+font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+    z-index: 10px;
+    text-transform: uppercase;
+    margin: 0% -4% 0% 10.5%;
+    color: black;
+    opacity: 0.5;
+    text-align: center;
+    line-height: 1em;
+    display: inline-block;
+}
+
+p.colour-codes6
+
+{
+font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+    z-index: 10px;
+    text-transform: uppercase;
+    margin: 0% -4% 0% 10.5%;
+    color: black;
+    opacity: 0.5;
+    text-align: center;
+    line-height: 1em;
+    display: inline-block;
+}
+
+div.white1
+{
+background-color: white;
+background-size:cover;
+width: 55%;
+height: 110%;
+z-index: 10;
+opacity: 0.9;
+display: inline-block;
+min-width: 100px;
+position: absolute;
+}
+
+div.container
+
+{
+background-color: white;
+background-size:cover;
+width: 100%;
+height: 100%;
+margin-top:0%;
+z-index: 10;
+display:inline-block;
+    
+    
+}
+
+img.logo1
+
+{
+
+margin-top: 10%;
+width:25%;
+padding-right: 5%;
+margin-left: 10%;
+
+}
+
+img.logo2
+
+{
+width:19%;
+padding-right: 5%;
+padding-bottom: 2%;
+}
+
+img.logo3
+
+{
+width:24%;
+}
+
+.circular-logo-lines
+{
+width: 50%;
+margin-left: 25%;
+padding: 10% 0%;
+}
+
+.square-logo-lines
+
+{
+width: 50%;
+margin-left: 25%;
+padding: 10% 0%;
+}
+
+.colours
+
+{
+width: 70%;
+margin:10% 15% 0% 15%;
+}
+
+hr
+{
+width: 50%;
+margin: 30% 0% 0% 25%;
+}
+
+.character
+{
+width:30%;
+margin: 10% 0% 0% 35%;
+}
+
+.expressions
+{
+width:60%;
+margin: 10% 0% 0% 20%;
+}
+
+img.modifications
+
+{
+width:80%;
+margin: 5% 0% 0% 10%;
+}
