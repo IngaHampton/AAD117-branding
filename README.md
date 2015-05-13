@@ -22,9 +22,9 @@
 
 ### Branding
 
-[Character](https://www.flickr.com/photos/128425558@N08/16681736098/in/photostream/)
+[Character](https://www.flickr.com/photos/128425558@N08/17357500559/in/dateposted-public/)
 
-[Wordmark](https://www.flickr.com/photos/128425558@N08/16246985894/in/photostream/)
+[Wordmark](https://www.flickr.com/photos/128425558@N08/17517731486/in/dateposted-public/)
 
 [Supportive Work](https://www.flickr.com/photos/128425558@N08/sets/72157651445448951/)
 
