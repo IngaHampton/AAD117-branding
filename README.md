@@ -28,6 +28,10 @@
 
 [Supportive Work](https://www.flickr.com/photos/128425558@N08/sets/72157651445448951/)
 
+### Style Tile
+
+[Style Tile](https://www.flickr.com/photos/128425558@N08/16918947274/in/dateposted-public/)
+
 ### Brand Guidelines
 
 [Brand Guidelines](http://ingahampton.github.io/AAD117-branding/corporate-brand-guidlines.html)
