@@ -1,6 +1,6 @@
 # AAD117
 
-[Research](http://ingahampton.github.io/AAD117-1/AAD117-Research.html)
+[Research](http://ingahampton.github.io/AAD117-branding/AAD117-Research.html)
 
 ## Personal Identity
 
@@ -14,9 +14,9 @@
 
 ## Corporate Identity
 
-[Markdown Research](https://github.com/IngaHampton/AAD117-1/blob/gh-pages/Uncommon-Knowledge.md)
+[Markdown Research](https://github.com/IngaHampton/AAD117-branding/blob/gh-pages/Uncommon-Knowledge.md)
 
-[Brand Guildlines](http://ingahampton.github.io/AAD117-1/corporate-brand-guidlines.html)
+[Brand Guildlines](http://ingahampton.github.io/AAD117-branding/corporate-brand-guidlines.html)
 
 [Character](https://www.flickr.com/photos/128425558@N08/16681736098/in/photostream/)
 
