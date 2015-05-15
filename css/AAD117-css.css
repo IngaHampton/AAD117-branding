@@ -142,3 +142,54 @@ margin-left: 25%;
 width: 50%;
 margin-left: 25%;
 }
+
+.menu { 
+	width: 100%;
+    opacity: 0.9;
+	height: auto;
+	position: fixed;
+    min-width: auto;
+	max-width: 600px;
+    z-index: 100;
+    padding: 0% 29%;
+    background-image:  url(../images/title-img.jpg);
+background-size: cover;
+}
+.menu ul 
+
+    {
+    list-style: none;
+	display: block;
+	margin: auto;
+	list-style: none;
+    width: 800px;
+    margin: 0% 5%;
+    padding: 10%;
+    }
+
+.menu li
+    
+    {
+    color: #DBDADA;
+    font-family:"Yanone Kaffeesatz";
+    text-transform:uppercase;
+    font-weight: 200;
+    list-style: none;
+    float:right;
+    margin: 1% 2%;
+    
+    }
+    
+    .menu li a {
+    
+    color: #DBDADA;
+    text-decoration: none;
+    list-style: none;
+    font-size: 30px;
+        
+    }
+    
+    .menu li a:hover { 
+    color: #fff;
+        
+    }
