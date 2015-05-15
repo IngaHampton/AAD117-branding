@@ -193,3 +193,11 @@ background-size: cover;
     color: #fff;
         
     }
+.logo
+{
+width:20%;
+margin-left: -25%;
+padding-top: 0%;
+position: absolute;
+    
+}
